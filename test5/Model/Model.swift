@@ -19,6 +19,11 @@ class Memo {
     
     static var dummyMemoList = [
         Memo(content: "Momo1"),
-        Memo(content: "Momo2")
+        Memo(content: "Momo2"),
+        Memo(content: "Momo3"),
+        Memo(content: "Momo4"),
+        Memo(content: "Momo5"),
+        Memo(content: "Momo6")
+        
     ]
 }

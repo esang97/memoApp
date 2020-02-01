@@ -14,6 +14,7 @@
 		046BD5A823E59BF5005AD7E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046BD5A723E59BF5005AD7E7 /* Assets.xcassets */; };
 		046BD5AB23E59BF5005AD7E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046BD5A923E59BF5005AD7E7 /* LaunchScreen.storyboard */; };
 		046BD5B423E5A9B8005AD7E7 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046BD5B323E5A9B8005AD7E7 /* Model.swift */; };
+		046BD5BC23E5C4F1005AD7E7 /* MemoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046BD5BB23E5C4F1005AD7E7 /* MemoListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		046BD5AA23E59BF5005AD7E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		046BD5AC23E59BF5005AD7E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		046BD5B323E5A9B8005AD7E7 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		046BD5BB23E5C4F1005AD7E7 /* MemoListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				046BD5A923E59BF5005AD7E7 /* LaunchScreen.storyboard */,
 				046BD5AC23E59BF5005AD7E7 /* Info.plist */,
 				046BD5A423E59BF3005AD7E7 /* test5.xcdatamodeld */,
+				046BD5BB23E5C4F1005AD7E7 /* MemoListTableViewController.swift */,
 			);
 			path = test5;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				046BD59C23E59BF3005AD7E7 /* AppDelegate.swift in Sources */,
 				046BD59E23E59BF3005AD7E7 /* SceneDelegate.swift in Sources */,
+				046BD5BC23E5C4F1005AD7E7 /* MemoListTableViewController.swift in Sources */,
 				046BD5A623E59BF3005AD7E7 /* test5.xcdatamodeld in Sources */,
 				046BD5B423E5A9B8005AD7E7 /* Model.swift in Sources */,
 			);
